@@ -1,4 +1,4 @@
-# Anime-Quote-Webpage
+#Anime-Quote-Webpage
 This webpage displays a random anime quote each time the "New Quote" button is clicked. The quote is fetched from the Animechan API using a JavaScript `fetch()` request. The webpage includes an HTML file, a CSS file, and a JavaScript file that work together to create a functional and visually appealing user interface.
 
 Getting Started
